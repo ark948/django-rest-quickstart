@@ -1,0 +1,6 @@
+This is the quickstart of official django rest framework documentation.
+
+1. install venv, django, djangorestframework
+2. create a project named tutorial
+3. create an app named quickstart, within tutorial.
+4. migrate the database.
